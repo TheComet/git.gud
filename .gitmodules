@@ -1,3 +1,9 @@
 [submodule "dsvGLHF.git.gud"]
 	path = dsvGLHF.git.gud
 	url = https://TheComet93@github.com/TheComet93/dsvGLHF.git.gud
+[submodule "dglEZ.git.gud"]
+	path = dglEZ.git.gud
+	url = https://TheComet93@github.com/SimonSturm/dglEZ.git.gud
+[submodule "painITRAss.git.gud.scrub"]
+	path = painITRAss.git.gud.scrub
+	url = https://TheComet93@github.com/SimonSturm/painITRAss.git.gud.scrub
